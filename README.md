@@ -1,1 +1,1 @@
-[# Affiliate](https://speedvlad.github.io/Affiliate/)
+https://speedvlad.github.io/Affiliate/
