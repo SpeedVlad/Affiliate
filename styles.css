@@ -8,6 +8,7 @@
 * {
   margin: 0;
   transition: 0.4s;
+  user-select: none;
 }
 a {
   text-decoration: none;
